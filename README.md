@@ -4,18 +4,19 @@
 # Sturdy
 
 > An Application for Students by Students.
-> School-Hub is an Android Application which is developed using Flutter as Front-End and Firebase as Backend. This Android Application is contains all the all required features that will help student in solution of queries that a School Students faces in his/her Daily Life.
+> School-Hub is an Android Application which is developed using Flutter as Front-End and Firebase as Backend. This Android Application is medium of connection between tutors and students.
 
 ---
 [![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE) 
   [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](INSERT_UI_LINK_HERE)
 
 ## Features
-- Notices of Schools that are circulated.
-- Previous Years Papers of Schools.
-- Weekly Interviews of Schools Alumni
-- Memes on Subjects and Education System, So that Students can get a clear concept of Subjects while having fun.
-- A Discussion Box to post your queries or solve one.
+- Two types of Login, Student and Tutor.
+- The Home Screen of Tutor is a Map which shows the nearby Students who want a tutor.
+- The Second Screen is the Chat Area where the Tutor and Student can Discuss about the problems, enquire about fees etc.
+- The Third Screen is the Profile Area, which will be shown to Student while contacting.
+- The Home Screen is the Chat Area where the Student can contact the Tutors.
+- The Second Screen is the Profile that will be shown to tutor while contacting.
 
 ## Screenshots
 <img src="" alt="Project Screenshots">
@@ -33,7 +34,7 @@ $ flutter build apk --release
 
 ## Contributors
 - <a href="https://github.com/DhiranshSaxena">Dhiransh Saxena</a>
-- <a href="https://github.com/AwsmAsim">Aayesha Nomani</a>
+- <a href="https://github.com/aayeshanomani">Aayesha Nomani</a>
 
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
