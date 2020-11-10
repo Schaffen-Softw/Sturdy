@@ -4,7 +4,7 @@
 # Sturdy
 
 > An Application for Students by Students.
-> School-Hub is an Android Application which is developed using Flutter as Front-End and Firebase as Backend. This Android Application is medium of connection between tutors and students.
+> School-Hub is an Android Application which is developed using Flutter as Front-End and Firebase as Backend. This Android Application is medium of connection between Tutors and Students.
 
 ---
 [![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE) 
